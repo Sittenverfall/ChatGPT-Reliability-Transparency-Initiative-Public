@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Reliable AI work needs visible evidence</title>
+  <desc id="desc">A five-step proposed workflow: measure context, warn before input stops, preserve verified state, validate each Goal criterion with evidence, and reconcile usage across chats, tools, and background work. The footer says these are proposed CRTI requirements, not claims about current product capabilities.</desc>
+  <defs>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}.navy{fill:#10233f}.muted{fill:#40536b}.white{fill:#fff}.teal{fill:#087e8b}.gold{fill:#e9a23b}.card{fill:#fff;stroke:#d6e0e9;stroke-width:2}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1 1L11 6 1 11" fill="none" stroke="#087e8b" stroke-width="2"/></marker>
+  </defs>
+  <rect width="1600" height="1000" fill="#f2f6fa"/>
+  <rect x="0" y="0" width="1600" height="18" fill="#087e8b"/>
+  <text class="sans navy" x="72" y="104" font-size="54" font-weight="700">Reliable AI work needs visible evidence</text>
+  <text class="sans muted" x="76" y="154" font-size="26">A proposed workflow for long-running conversations, tasks and exports</text>
+  <text class="sans teal" x="76" y="214" font-size="20" font-weight="700" letter-spacing="2">MEASURE  →  WARN  →  PRESERVE  →  VALIDATE  →  RECONCILE</text>
+  <g class="sans">
+    <rect class="card" x="64" y="252" rx="18" width="270" height="480"/>
+    <rect x="64" y="252" rx="18" width="270" height="98" fill="#dff3f3"/>
+    <circle cx="105" cy="301" r="24" fill="#087e8b"/><text x="105" y="309" text-anchor="middle" class="white" font-size="21" font-weight="700">01</text>
+    <text class="navy" x="145" y="310" font-size="25" font-weight="700">MEASURE</text>
+    <text class="muted" x="88" y="398" font-size="21"><tspan x="88" dy="0">Show context used</tspan><tspan x="88" dy="31">and remaining</tspan></text>
+    <text class="muted" x="88" y="486" font-size="21"><tspan x="88" dy="0">Name model, scope</tspan><tspan x="88" dy="31">and update time</tspan></text>
+    <text class="muted" x="88" y="574" font-size="21"><tspan x="88" dy="0">Keep account allowance</tspan><tspan x="88" dy="31">separate</tspan></text>
+    <circle cx="88" cy="676" r="5" fill="#e9a23b"/><text class="muted" x="105" y="683" font-size="16">Occupancy ≠ allowance</text>
+
+    <rect class="card" x="366" y="252" rx="18" width="270" height="480"/>
+    <rect x="366" y="252" rx="18" width="270" height="98" fill="#fff0d9"/>
+    <circle cx="407" cy="301" r="24" fill="#bd7412"/><text x="407" y="309" text-anchor="middle" class="white" font-size="21" font-weight="700">02</text>
+    <text class="navy" x="447" y="310" font-size="25" font-weight="700">WARN</text>
+    <text class="muted" x="390" y="398" font-size="21"><tspan x="390" dy="0">Signal risk before</tspan><tspan x="390" dy="31">input stops</tspan></text>
+    <text class="muted" x="390" y="486" font-size="21"><tspan x="390" dy="0">Show uncertainty</tspan><tspan x="390" dy="31">and safe options</tspan></text>
+    <text class="muted" x="390" y="574" font-size="21"><tspan x="390" dy="0">Let users choose</tspan><tspan x="390" dy="31">the next step</tspan></text>
+    <circle cx="390" cy="676" r="5" fill="#e9a23b"/><text class="muted" x="407" y="683" font-size="16">Warn while action is possible</text>
+
+    <rect class="card" x="668" y="252" rx="18" width="270" height="480"/>
+    <rect x="668" y="252" rx="18" width="270" height="98" fill="#e7edfb"/>
+    <circle cx="709" cy="301" r="24" fill="#465ca5"/><text x="709" y="309" text-anchor="middle" class="white" font-size="21" font-weight="700">03</text>
+    <text class="navy" x="749" y="310" font-size="25" font-weight="700">PRESERVE</text>
+    <text class="muted" x="692" y="398" font-size="21"><tspan x="692" dy="0">Save decisions, rules</tspan><tspan x="692" dy="31">and source links</tspan></text>
+    <text class="muted" x="692" y="486" font-size="21"><tspan x="692" dy="0">Record verified</tspan><tspan x="692" dy="31">current state</tspan></text>
+    <text class="muted" x="692" y="574" font-size="21"><tspan x="692" dy="0">Offer an inspectable</tspan><tspan x="692" dy="31">handoff</tspan></text>
+    <circle cx="692" cy="676" r="5" fill="#e9a23b"/><text class="muted" x="709" y="683" font-size="16">Keep facts and proposals distinct</text>
+
+    <rect class="card" x="970" y="252" rx="18" width="270" height="480"/>
+    <rect x="970" y="252" rx="18" width="270" height="98" fill="#e3f2e9"/>
+    <circle cx="1011" cy="301" r="24" fill="#2a7b51"/><text x="1011" y="309" text-anchor="middle" class="white" font-size="21" font-weight="700">04</text>
+    <text class="navy" x="1051" y="310" font-size="25" font-weight="700">VALIDATE</text>
+    <text class="muted" x="994" y="398" font-size="21"><tspan x="994" dy="0">Check each Goal</tspan><tspan x="994" dy="31">criterion</tspan></text>
+    <text class="muted" x="994" y="486" font-size="21"><tspan x="994" dy="0">Use fresh, authoritative</tspan><tspan x="994" dy="31">evidence</tspan></text>
+    <text class="muted" x="994" y="574" font-size="21"><tspan x="994" dy="0">Stay incomplete when</tspan><tspan x="994" dy="31">proof is missing</tspan></text>
+    <circle cx="994" cy="676" r="5" fill="#e9a23b"/><text class="muted" x="1011" y="683" font-size="16">Platform checks before complete</text>
+
+    <rect class="card" x="1272" y="252" rx="18" width="270" height="480"/>
+    <rect x="1272" y="252" rx="18" width="270" height="98" fill="#f0e6f4"/>
+    <circle cx="1313" cy="301" r="24" fill="#80519a"/><text x="1313" y="309" text-anchor="middle" class="white" font-size="21" font-weight="700">05</text>
+    <text class="navy" x="1353" y="310" font-size="25" font-weight="700">RECONCILE</text>
+    <text class="muted" x="1296" y="398" font-size="21"><tspan x="1296" dy="0">Count chats, tools</tspan><tspan x="1296" dy="31">and background work</tspan></text>
+    <text class="muted" x="1296" y="486" font-size="21"><tspan x="1296" dy="0">Separate tokens,</tspan><tspan x="1296" dy="31">cache and cost</tspan></text>
+    <text class="muted" x="1296" y="574" font-size="21"><tspan x="1296" dy="0">Explain gaps and</tspan><tspan x="1296" dy="31">reporting delays</tspan></text>
+    <circle cx="1296" cy="676" r="5" fill="#e9a23b"/><text class="muted" x="1313" y="683" font-size="16">Never treat unknown as zero</text>
+  </g>
+  <g fill="none" stroke="#087e8b" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M337 301h20"/><path d="M639 301h20"/><path d="M941 301h20"/><path d="M1243 301h20"/>
+  </g>
+  <rect x="64" y="786" rx="12" width="1478" height="84" fill="#10233f"/>
+  <text class="sans white" x="803" y="838" text-anchor="middle" font-size="25" font-weight="700">Always show scope  •  source  •  freshness  •  uncertainty</text>
+  <text class="sans muted" x="72" y="925" font-size="17" font-weight="700">PROPOSED CRTI REQUIREMENTS • NOT A CLAIM ABOUT CURRENT PRODUCT CAPABILITIES</text>
+  <text class="sans muted" x="72" y="956" font-size="16">Req. 01, 03, 05, 08–10, 17, 19–22  |  Sources and limits: CRTI draft proposal and evidence register</text>
+</svg>

@@ -1,0 +1,26 @@
+# ChatGPT Reliability & Transparency Initiative (CRTI)
+Independent user initiative; not affiliated with OpenAI.
+## THE LACK OF TRANSPARENCY IS UNACCEPTABLE
+Paying users need reliable context warnings, recoverable conversations and reconcilable usage accounting. OpenAI says eligible Enterprise/Edu Work and Codex chat estimates are not complete records and may omit delegated tasks, some separately billed tool activity, background activity, or delayed/unavailable records. Activity missing from a chat total may still consume credits and count toward limits. [Official documentation](https://help.openai.com/en/articles/20001478-reviewing-work-and-codex-usage-and-using-personal-analytics-in-chatgpt-desktop). This does not establish identical accounting for consumer plans. [OpenAI's announced December transition](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits) says Plus, Pro and Business allowances will be shared across ChatGPT and Codex and measured in tokens; the article does not confirm rollout to every account.
+## What explains the current reporting gaps?
+OpenAI should explain the rationale and evidence behind current usage reporting, identify known gaps by plan and surface, and publish measurable milestones to close them. Users must be able to reconcile charged usage, independently of the product's commercial incentives. We do not assert an established motive or fraud.
+## Recovery is not a summary
+The initiative founder reports repeated attempts at handover with loss of context and learned working rules, and successor chats burdened by recovery material. A summary after exhaustion is not an adequate recovery mechanism when input may already be blocked. Require verified checkpoints, preservation of decisions and working rules, selective retrieval, and bounded migration overhead. This is a user report, not a controlled experiment.
+## Completion must be checked against evidence
+OpenAI's [Codex Goals guide](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex) describes evidence-based Goal completion and thread-scoped persisted state. CRTI-017 asks for a platform-controlled completion check: compare every stated criterion with fresh authoritative evidence; keep the Goal incomplete when evidence is missing, stale, contradictory or only asserted by the model; and identify the unmet criterion. This is a requested control. The [verified Goals evidence note](evidence/CODEX_GOALS_EVIDENCE.md) records limited live status observations and the negative cases that remain untested; it does not claim that current Codex hosts already enforce this gate.
+## Dated observations from a Plus account
+One Codex Goal reported 496,838 tokens and 34 minutes 35 seconds elapsed. The visible usage dashboard showed a shared allowance, remaining percentages and an explicit incomplete-data notice for a weekly period. The Goal count could not be reconciled to a measured percentage change; no baseline exists. A model-transition warning and differing Library access across Chat/Codex were also observed. These are scoped user observations, not a billing audit or causal diagnosis. See the [accounting addendum](evidence/ACCOUNTING_ADDENDUM.md) and [Goals evidence](evidence/CODEX_GOALS_EVIDENCE.md).
+
+A separate [browser-backup report (E14)](https://www.reddit.com/r/ChatGPTcomplaints/comments/1tb905l/) describes apparently successful yet incomplete clipboard/PDF captures; screenshots were reviewed but exact source date and reproduction are unverified. This is not evidence of server-side deletion or incomplete account ZIP delivery. We request a native selective export with a verified completeness indicator.
+
+## Requirements
+See [technical requirements](requirements/REQUIREMENTS.md), [community history](evidence/UNRESOLVED_REQUESTS.md), [export proposal](data-export/PROPOSAL.md) and [comparison](evidence/COMPETITOR_COMPARISON.md).
+
+## Proposed reliability workflow
+![Five-step proposed CRTI workflow: measure context separately from allowance; warn while input remains usable; preserve decisions and verified state; validate every Goal criterion with fresh authoritative evidence; reconcile chat, tool and background use, tokens, cache and cost. The image labels these as proposed requirements, not current product capabilities.](assets/crti-reliable-workflow.png)
+
+Editable source: [SVG](assets/crti-reliable-workflow.svg). The workflow summarizes requirements 01, 03, 05, 08–10, 17, and 19–22. Its evidence scope and limits are documented in the [requirements](requirements/REQUIREMENTS.md), [Codex Goals evidence note](evidence/CODEX_GOALS_EVIDENCE.md), [accounting addendum](evidence/ACCOUNTING_ADDENDUM.md), and [source register](evidence/SOURCE_REGISTER_DRAFT.md). It is a proposal and makes no claim that these controls currently exist.
+
+# COMMUNITY CALL TO ACTION — YOUR EVIDENCE MATTERS
+**Share reproducible reports, relevant issues and acceptance criteria. Reuse these demands in your own factual feedback to OpenAI. Ask for Product Management and Engineering review.** Remove private data. Do not spam existing threads.
+We request measurable implementation milestones, not another acknowledgment. We do not request unlimited usage.

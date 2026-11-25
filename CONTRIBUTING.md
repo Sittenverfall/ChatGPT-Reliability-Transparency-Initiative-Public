@@ -1,0 +1,2 @@
+# Contribute evidence
+Submit one issue per distinct problem. Include product mode, client, date, reproducible steps, expected and actual results, and redacted evidence. Distinguish observation, inference and proposal. Link related reports instead of duplicating them. Do not publish private conversations, credentials or signed download URLs. Keep comments relevant and respectful. Do not claim malicious intent as fact without evidence.
